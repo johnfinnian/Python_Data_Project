@@ -40,7 +40,7 @@ The process started by importing the necessary libraries and loading the raw dat
 ### 1. What are the most demanded skills for the top 3 most popular data roles?
 To find the most demanded skills, I filtered the dataset by the top 3 most popular job titles and identified the top 5 skills associated with each. This comparison highlights which skills carry the most weight depending on the specific career track targeted.
 
-![2_Skill_Demand.ipynb](images\skill_demand_all_data_roles.png)
+![2_Skill_Demand.ipynb](images/skill_demand_all_data_roles.png)
 
 
 #### Visualize Data
