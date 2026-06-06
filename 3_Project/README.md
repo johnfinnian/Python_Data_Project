@@ -40,8 +40,6 @@ The process started by importing the necessary libraries and loading the raw dat
 ### 1. What are the most demanded skills for the top 3 most popular data roles?
 To find the most demanded skills, I filtered the dataset by the top 3 most popular job titles and identified the top 5 skills associated with each. This comparison highlights which skills carry the most weight depending on the specific career track targeted.
 
-![2_Skill_Demand.ipynb](images/skill_demand_all_data_roles.png)
-
 
 #### Visualize Data
 ```python
@@ -60,7 +58,7 @@ plt.show()
 ```
 #### Results
 
-![Visualization of Top Skills for Data Nerds](images\skill_demand_all_data_roles.png)
+![Visualization of Top Skills for Data Nerds](images/skill_demand_all_data_roles.png)
 
 
 #### Insights
@@ -148,7 +146,7 @@ plt.show()
 ```
 #### Results
 
-![The Highest Paid & Most In-Demand Skills for Data Analyst in the US](images\US_highest_paying_and_in_demand_skills.png)
+![The Highest Paid & Most In-Demand Skills for Data Analyst in the US](images/US_highest_paying_and_in_demand_skills.png)
 
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
@@ -179,7 +177,7 @@ plt.show()
 ```
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](images\US_Most_Optimal_Skills_for_Data_Analysts.png)
+![Most Optimal Skills for Data Analysts in the US](images/US_Most_Optimal_Skills_for_Data_Analysts.png)
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
